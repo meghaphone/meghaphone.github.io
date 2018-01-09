@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/soundcloud-watermark.jpeg"
+image = "img/portfolio/soundcloud-mockup-transparency5.png"
 showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
