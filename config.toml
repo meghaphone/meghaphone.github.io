@@ -7,7 +7,6 @@ theme = "creative-portfolio-theme"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "pink"
-  copyright = "&copy;2016 Your name or company"
   description = "internet corner of meghan kane"
   sidebarAbout = [
     "🙋🏼 Hey! I'm Meghan. I am a software developer focusing on iOS app development. I like creating software that can make the world a little bit better each day. 🌎💜 Back in the day, I studied Computer Science & Math @ MIT 👩🏼‍🎓",
@@ -16,32 +15,11 @@ theme = "creative-portfolio-theme"
     "Thanks for stopping by! Feel free to reach out to connect 👇",
     ""
   ]
-  # Contact page
-     # Since this template is static, the contact form uses www.formspree.io as a
-     # proxy. The form makes a POST request to their servers to send the actual
-     # email. Visitors can send up to a 1000 emails each month for free.
-     #
-     # What you need to do for the setup?
-     #
-     # - set your email address under 'email' below
-     # - upload the generated site to your server
-     # - send a dummy email yourself to confirm your account
-     # - click the confirm link in the email from www.formspree.io
-     # - you're done. Happy mailing!
-  email = "you@yoursite.com"
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = ""
-
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
-
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+ #  [[params.navlinks]]
+ # name = "Home"
+ # url = ""
 
   [params.social]
   email         = "kanemeghan@gmail.com"
