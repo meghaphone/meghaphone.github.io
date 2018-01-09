@@ -7,8 +7,8 @@ theme = "creative-portfolio-theme"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "pink"
-  description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
+  description = "internet corner of meghan kane"
   sidebarAbout = [
     "🙋🏼 Hey! I'm Meghan. I am a software developer focusing on iOS app development. I like creating software that can make the world a little bit better each day. 🌎💜 Back in the day, I studied Computer Science & Math @ MIT 👩🏼‍🎓",
     "👩🏼‍🏫 I subscribe to a life long learning approach, so I'm continuously researching new areas that can better the software I create. My current research focus is machine learning for iOS apps.",
