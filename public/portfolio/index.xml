@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Meghan Kane</title>
+    <link>https://meghaphone.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Meghan Kane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:53:42 +0530</lastBuildDate>
+    
+	<atom:link href="https://meghaphone.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MIT Media Lab Moca Mobile Android App</title>
+      <link>https://meghaphone.github.io/portfolio/6-mit-media-lab-moca/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://meghaphone.github.io/portfolio/6-mit-media-lab-moca/</guid>
+      <description>&lt;p&gt;&lt;em&gt;2010&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SoundCloud iOS App</title>
+      <link>https://meghaphone.github.io/portfolio/1-soundcloud/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://meghaphone.github.io/portfolio/1-soundcloud/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Apr &amp;lsquo;15 - Sept &amp;lsquo;17&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Knot&#39;s GuestBook iOS app</title>
+      <link>https://meghaphone.github.io/portfolio/4-the-knot-guestbook/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://meghaphone.github.io/portfolio/4-the-knot-guestbook/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mar &amp;lsquo;14 - Mar &amp;lsquo;15&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Knot&#39;s Wedding Planner iOS app</title>
+      <link>https://meghaphone.github.io/portfolio/5-the-knot-planner/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://meghaphone.github.io/portfolio/5-the-knot-planner/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Mar &amp;lsquo;14 - Mar &amp;lsquo;15&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Topology Eyewear iOS app</title>
+      <link>https://meghaphone.github.io/portfolio/3-topology/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://meghaphone.github.io/portfolio/3-topology/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Nov &amp;lsquo;17 - Dec &amp;lsquo;17&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Udacity Core ML iOS Course</title>
+      <link>https://meghaphone.github.io/portfolio/2-udacity/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://meghaphone.github.io/portfolio/2-udacity/</guid>
+      <description>&lt;p&gt;&lt;em&gt;July &amp;lsquo;17 - Oct &amp;lsquo;17&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
