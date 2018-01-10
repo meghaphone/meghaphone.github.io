@@ -3,54 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/portfolio/6-mit-media-lab-moca/</loc>
+    <loc>https://meghaphone.github.io/portfolio/6-mit-media-lab-moca/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/1-soundcloud/</loc>
+    <loc>https://meghaphone.github.io/portfolio/1-soundcloud/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/4-the-knot-guestbook/</loc>
+    <loc>https://meghaphone.github.io/portfolio/4-the-knot-guestbook/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/5-the-knot-planner/</loc>
+    <loc>https://meghaphone.github.io/portfolio/5-the-knot-planner/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/3-topology/</loc>
+    <loc>https://meghaphone.github.io/portfolio/3-topology/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/2-udacity/</loc>
+    <loc>https://meghaphone.github.io/portfolio/2-udacity/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://meghaphone.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://meghaphone.github.io/</loc>
     <lastmod>2016-11-05T19:53:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://meghaphone.github.io/portfolio/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://meghaphone.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
