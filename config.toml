@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://meghaphone.github.io/"
 languageCode = "en-us"
 title = "Meghan Kane"
 theme = "hugo-creative-portfolio-theme"
