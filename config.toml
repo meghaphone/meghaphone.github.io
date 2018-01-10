@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Meghan Kane"
-theme = "creative-portfolio-theme"
+theme = "hugo-creative-portfolio-theme"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
