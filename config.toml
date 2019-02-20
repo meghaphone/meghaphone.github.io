@@ -9,7 +9,10 @@ theme = "hugo-creative-portfolio-theme"
   style = "pink"
   description = "internet corner of meghan kane"
   sidebarAbout = [
-    "Hey! I'm Meghan. I am a software developer & I study problems that fall under the realm of computational science. The earlier stage of my career was focused on tool building, mostly on learning how to become an effective software developer across various areas of the stack. Next step is to use these tools to contribute to problems in the realm of applied science, no matter how much learning that takes to do. Some of my old work is featured here (will update with more current work, studies, & research efforts soon). Back in the day, I studied Computer Science & Math @ MIT"
+    "🙋🏼‍♀️ Hey! I'm a software developer based primarily in Berlin & I also study problems traditionally categorized under computational science. After studying Math & CS @ MIT, the 1st stage - tool building stage - of my career was spent working across the stack.",
+    "👩🏼‍🔬 Next stage will be to use these tools to contribute to problems in applied science. Note: work featured 👉 is outdated. Check back soon for current work & musings.",
+    "🕵🏼‍ For insight into my other intellectual curiosities, check my About page",
+    "🤸🏼‍♀️ I also love biking, funk music, taking spaziergänge (strolls), and discussing ideas with people across the ideological spectrum."
   ]
 
   # Nav links in the side bar
