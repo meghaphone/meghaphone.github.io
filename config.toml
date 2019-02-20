@@ -9,10 +9,9 @@ theme = "hugo-creative-portfolio-theme"
   style = "pink"
   description = "internet corner of meghan kane"
   sidebarAbout = [
-    "🙋🏼‍♀️ Hey! I'm a software developer based primarily in Berlin & I also study problems traditionally categorized under computational science. After studying Math & CS @ MIT, the 1st stage - tool building stage - of my career was spent working across the stack.",
-    "👩🏼‍🔬 Next stage will be to use these tools to contribute to problems in applied science. Note: work featured 👉 is outdated. Check back soon for current work & musings.",
-    "🕵🏼‍ For insight into my other intellectual curiosities, check my About page",
-    "🤸🏼‍♀️ I also love biking, funk music, taking spaziergänge (strolls), and discussing ideas with people across the ideological spectrum."
+    "🙋🏼‍♀️ Hey! I'm a software developer & I also study topics in the realm of computational science. After studying Math & CS @ MIT, the 1st stage - tool building stage - of my career was spent working across the stack. Next stage will be to use these tools to find ways to contribute to problems in applied science.",
+    "🕵🏼 For insight into my other intellectual curiosities, check my /about page 👇. I also love biking, funk music, taking spaziergänge (strolls), & discussing ideas with people across the ideological spectrum.",
+    "NOTE: portfolio work is out of date. Check back for updates."
   ]
 
   # Nav links in the side bar
