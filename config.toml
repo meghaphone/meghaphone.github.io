@@ -18,7 +18,7 @@ theme = "hugo-creative-portfolio-theme"
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "portfolio/"
+  url = ""
   home = true
 
   [[params.navlinks]]
